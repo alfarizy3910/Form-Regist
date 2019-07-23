@@ -1,10 +1,10 @@
-$(document).ready(function(){
-    $('#button').click(function(){
-        alert( " Nama : " +$("#Nama").val() 
-            + " Alamat: " +$('#Alamat').val() 
-            + "  NoHp : "+$('#NoHp').val()
-            + " NamaOrangtua : " +$('#NamaOrangtua').val()
-            + " AsalSekolah : " +$('#AsalSekolah').val()
-            + " Jenis_Kelamin: " +$('input[name=Jenis_Kelamin]:checked').val());
-        });
+$(document).ready(function () {
+    $('#button').click(function () {
+        alert(" Nama : " + $("#Nama").val() + '\n'
+            + " Alamat: " + $('#Alamat').val() + '\n'
+            + "  NoHp : " + $('#NoHp').val() + '\n'
+            + " NamaOrangtua : " + $('#NamaOrangtua').val() + '\n'
+            + " AsalSekolah : " + $('#AsalSekolah').val() + '\n'
+            + " Jenis_Kelamin: " + $('input[name=Jenis_Kelamin]:checked').val());
     });
+});
