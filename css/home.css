@@ -1,0 +1,59 @@
+.navbar-brand img{
+    max-width: 300px;
+}
+
+.brand-icon{
+    border-bottom:1px solid #d3d3d3;
+}
+
+.navbar{
+    border-bottom: 1px solid #d3d3d3;
+}
+
+#linkedin-icon{
+    background-color: #5472d2;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#instagram-icon{
+    background-color: #e52d27;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#facebook-icon{
+    background-color: #5472d2;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#youtube-icon{
+    background-color: #e52d27;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
